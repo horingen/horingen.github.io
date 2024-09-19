@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://horingen.github.io/sitemap.html.gz
+Sitemap: https://horingen.github.io/app/sitemap.html.gz
+Sitemap: https://horingen.github.io/assets/sitemap.html.gz
+Sitemap: https://horingen.github.io/css/sitemap.html.gz
+Sitemap: https://horingen.github.io/data/sitemap.html.gz
+Sitemap: https://horingen.github.io/includes/sitemap.html.gz
+Sitemap: https://horingen.github.io/item/sitemap.html.gz
+Sitemap: https://horingen.github.io/src/sitemap.html.gz
